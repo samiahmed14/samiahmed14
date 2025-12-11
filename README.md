@@ -1,7 +1,7 @@
 # ✋ Hey, I am Sami!
 
 🎓 **MS in Statistics and Data Science** at the University of Central Florida  
-🧪 **OPS Research Assistant** in the Chemistry Department at UCF  
+🧪 **OPS Graduate Assistant** in the Chemistry Department at UCF  
 🤖 **Machine Learning Engineer Intern** @ SEO Content AI  
 📊 **Data Science Intern** @ Dhaaps Edutech  
 💻 **Focus:** Machine Learning, MLOps, Applied AI, Data Engineering  
